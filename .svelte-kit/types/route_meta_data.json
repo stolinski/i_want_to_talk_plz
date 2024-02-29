@@ -1,0 +1,8 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/[room]": [
+		"src/routes/[room]/+page.server.ts"
+	]
+}
